@@ -2,9 +2,10 @@
 React, React-router4, webpack2
 
 
-I use this web site reference for my example:
+I use these web sites reference for my example:
 
 Configuration webpack
+
 https://github.com/coryhouse/pluralsight-redux-starter
 https://survivejs.com/webpack/loading/images/
 https://webpack.js.org/guides/get-started/
